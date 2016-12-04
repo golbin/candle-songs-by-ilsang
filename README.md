@@ -1,5 +1,7 @@
 # 시대유감 2016
 
+[![download][download-image]][afraid-the-times-url]
+
 11월 12일 광화문에서 뵙길 바라며... 더 나은 대한민국을 바라며...
 
 시대유감 2016 - PDiS
@@ -98,3 +100,15 @@ hook repeat
 부디... 부디 그곳에선 행복하기를 기도합니다.
 
 2014년 4월 23일 새벽
+
+# License
+
+다운로드 및 재배포 제한 없음
+
+[download-image]:
+https://raw.githubusercontent.com/golbin/candle-songs-by-ilsang/master/img/btn-download.png
+[afraid-the-times-url]:
+https://github.com/golbin/candle-songs-by-ilsang/blob/master/시대유감%202016.mp3?raw=true
+[please-url]:
+https://github.com/golbin/candle-songs-by-ilsang/blob/master/부디%20(세월호%20희생자분들을%20위한%20진혼곡).mp3?raw=true
+
