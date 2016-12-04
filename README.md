@@ -9,6 +9,7 @@
 
 # 시대유감 2016
 
+[![play][play-image]][afraid-the-times-play-url]
 [![download][download-image]][afraid-the-times-url]
 
 11월 12일 광화문에서 뵙길 바라며... 더 나은 대한민국을 바라며...
@@ -98,6 +99,7 @@ hook repeat
 
 # 부디 (세월호 희생자분들을 위한 진혼곡)
 
+[![play][play-image]][please-play-url]
 [![download][download-image]][please-url]
 
 작곡, 편곡, 연주: 윤일상
@@ -126,4 +128,7 @@ https://raw.githubusercontent.com/golbin/candle-songs-by-ilsang/master/img/btn-d
 https://github.com/golbin/candle-songs-by-ilsang/blob/master/시대유감%202016.mp3?raw=true
 [please-url]:
 https://github.com/golbin/candle-songs-by-ilsang/blob/master/부디%20(세월호%20희생자분들을%20위한%20진혼곡).mp3?raw=true
-
+[play-image]:
+https://raw.githubusercontent.com/golbin/candle-songs-by-ilsang/master/img/btn-play.png
+[afraid-the-times-play-url]: https://soundcloud.com/is-pd/2016a                  
+[please-play-url]: https://soundcloud.com/ilsangyoon/utqzupkehdzy
