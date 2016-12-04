@@ -12,7 +12,10 @@
 [![play][play-image]][afraid-the-times-play-url]
 [![download][download-image]][afraid-the-times-url]
 
-11월 12일 광화문에서 뵙길 바라며... 더 나은 대한민국을 바라며...
+작금의 현실을 참담하고 답답한심정으로 바라보며 만들었습니다. 무료로 올려드리니
+마음껏 공유하시기 바랍니다.
+
+더 나은 대한민국을 바라며...
 
 - 작곡: 윤일상, 조PD
 - 작사: 조PD
