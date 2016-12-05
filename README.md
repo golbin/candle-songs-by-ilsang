@@ -123,6 +123,9 @@ bang bang bang! 삐끼 get the fuck out
 
 kill kill kill , murder murder murder. No 평화시위 집회에 외신들 놀라
 pill pill pills, 쩔어쩔어쩔어 . 막장 스토리 왜 창피함을 몰라
+
+대한민국 헌법 제1조 2항 대한민국 주권은 국민에있고 모든 권력은 국민으로부터 나온다!
+국가란 국민입니다! <영화 "변호인"중에서>
 ```
 
 # 시대유감 2016
@@ -255,4 +258,4 @@ https://github.com/golbin/candle-songs-by-ilsang/blob/master/100m.mp3?raw=true
 https://raw.githubusercontent.com/golbin/candle-songs-by-ilsang/master/img/btn-play.png
 [afraid-the-times-play-url]: https://soundcloud.com/is-pd/2016a                  
 [please-play-url]: https://soundcloud.com/ilsangyoon/utqzupkehdzy
-[100m-play-url]: https://soundcloud.com/is-pd/2016a                  
+[100m-play-url]: https://soundcloud.com/is-pd/100m                 
