@@ -27,7 +27,8 @@
 - All Instruments & Mixed By 윤일상
 - Mastering 윤일상, 한종진
 - Technical support 김진중
-
+- Album Design 윤일상
+- Photo 윤상식
 
 ```
 100m
